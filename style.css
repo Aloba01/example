@@ -202,5 +202,12 @@ footer {
 	margin-left: 50px;
 	flex-wrap: wrap;
 	}
+	.newone  img {
+		float: left;
+		margin-top: 0px;
+		width: 152px;
+		height: 224px;
+		/* margin-left: 20px; */
+	}
 	
 }
