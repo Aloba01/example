@@ -189,25 +189,3 @@ footer {
 	color: white;
 	margin: 150px 0 0 150px;
 }
-
-/* @media screen and (min-width: 400px) and (max-width: 600px) {
-	.flex-container{
-	display: flex;
-	/*background: white;*/
-	min-width: 50px;
-	height: 50px;
-	list-style: none;
-	padding: 10px;
-	margin-right: 10px;
-	margin-left: 50px;
-	flex-wrap: wrap;
-	}
-	.newone  img {
-		float: left;
-		margin-top: 0px;
-		width: 152px;
-		height: 224px;
-		/* margin-left: 20px; */
-	}
-	
-} */
