@@ -289,6 +289,7 @@ footer {
 .highpic {
     display: flex;
     float: right;
+	position: relative;
     background: whitesmoke;
     width: 250px;
     height: 140px;
@@ -309,6 +310,10 @@ img.dpics {
     margin-left: 28px;
     margin-top: 13px;
 }
+footer {
+	margin: 127px 0 0 60px;
+}
+
 }
 
 @media screen and (min-width:480px) {
